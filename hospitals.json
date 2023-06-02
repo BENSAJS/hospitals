@@ -1,0 +1,17 @@
+{
+    "hospitals": [
+      {
+        "id": "1",
+        "name": "SSNMM HOSPITAL",
+        "patientCount": 100,
+        "location": "VARKALA"
+      },
+      {
+        "id": "2",
+        "name": "KIMS",
+        "patientCount": 50,
+        "location": "TRIVANDRUM"
+      }
+    ]
+  }
+  
